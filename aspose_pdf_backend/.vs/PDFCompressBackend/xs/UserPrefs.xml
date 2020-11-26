@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{31F02FD3-0642-45B9-8A78-679C44351516}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UploadController.cs">
+    <Files>
+      <File FileName="Controllers/DownloadController.cs" Line="20" Column="56" />
+      <File FileName="Controllers/ConvertController.cs" Line="18" Column="22" />
+      <File FileName="Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDFCompressBackend" expanded="True">
+            <Node name="PDFCompressBackend" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UploadController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PDFCompressBackend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

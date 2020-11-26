@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/aspose_pdf_backend.csproj": {}
+  },
+  "projects": {
+    "/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/aspose_pdf_backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/aspose_pdf_backend.csproj",
+        "projectName": "aspose_pdf_backend",
+        "projectPath": "/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/aspose_pdf_backend.csproj",
+        "packagesPath": "/Users/yeskendirsarinov/.nuget/packages/",
+        "outputPath": "/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yeskendirsarinov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Aspose.Pdf-Cloud": {
+              "target": "Package",
+              "version": "[20.9.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sCi48bzkvowiZ4twM5OhydbC/zQ0lAWPJm9KEVoVDK/eYjQBKvOhzh7QyATStjMwYNybO+keb4XH5kVIPXJrGA==",
+  "success": true,
+  "projectFilePath": "/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/aspose_pdf_backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/yeskendirsarinov/.nuget/packages/aspose.pdf-cloud/20.9.0/aspose.pdf-cloud.20.9.0.nupkg.sha512",
+    "/Users/yeskendirsarinov/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/yeskendirsarinov/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}

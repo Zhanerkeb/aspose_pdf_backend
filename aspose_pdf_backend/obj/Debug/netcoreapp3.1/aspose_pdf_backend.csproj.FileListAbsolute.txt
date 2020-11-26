@@ -1,0 +1,46 @@
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.deps.json
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.runtimeconfig.json
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.runtimeconfig.dev.json
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.dll
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.pdb
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/Aspose.Pdf.Cloud.Sdk.dll
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.csprojAssemblyReference.cache
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.AssemblyInfoInputs.cache
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.AssemblyInfo.cs
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.csproj.CoreCompileInputs.cache
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/staticwebassets/aspose_pdf_backend.StaticWebAssets.Manifest.cache
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/staticwebassets/aspose_pdf_backend.StaticWebAssets.xml
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/scopedcss/bundle/aspose_pdf_backend.styles.css
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.RazorTargetAssemblyInfo.cache
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.csproj.CopyComplete
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.dll
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.pdb
+/Users/yeskendirsarinov/Downloads/Telegram Desktop/backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.genruntimeconfig.cache
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.deps.json
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.runtimeconfig.json
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.runtimeconfig.dev.json
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.dll
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/aspose_pdf_backend.pdb
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/Aspose.Pdf.Cloud.Sdk.dll
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.csprojAssemblyReference.cache
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.AssemblyInfoInputs.cache
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.AssemblyInfo.cs
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.csproj.CoreCompileInputs.cache
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/staticwebassets/aspose_pdf_backend.StaticWebAssets.Manifest.cache
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/staticwebassets/aspose_pdf_backend.StaticWebAssets.xml
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/scopedcss/bundle/aspose_pdf_backend.styles.css
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.RazorTargetAssemblyInfo.cache
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.csproj.CopyComplete
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.dll
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.pdb
+/Users/yeskendirsarinov/Documents/aspose/aspose_pdf_backend/aspose_pdf_backend/obj/Debug/netcoreapp3.1/aspose_pdf_backend.genruntimeconfig.cache
